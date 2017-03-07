@@ -1,5 +1,5 @@
 # Compiled JS
-build
+./build
 
 # Dependency directory
 node_modules
@@ -9,3 +9,5 @@ node_modules
 
 # VSCode directory
 .vscode
+
+bazel-*
